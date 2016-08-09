@@ -89,6 +89,3 @@ with open('scores.csv', 'w') as csvfile:
                 sys.exit(1)
             except:
                 continue       
-        
-        
-    
